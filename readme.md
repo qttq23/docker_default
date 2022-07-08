@@ -13,4 +13,6 @@ https://docs.docker.com/language/nodejs/build-images/
 # run &  manage: list, stop, ...
 https://docs.docker.com/language/nodejs/run-containers/
 
+# environment
+https://docs.docker.com/engine/reference/commandline/run/#set-environment-variables--e---env---env-file
 
